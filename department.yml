@@ -1,2 +1,4 @@
 city: 
   area: Noida
+server:
+  port: 8083
